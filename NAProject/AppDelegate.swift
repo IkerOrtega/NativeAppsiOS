@@ -1,10 +1,7 @@
-//
+	//
 //  AppDelegate.swift
 //  NAProject
-//
-//  Created by Iker on 07/01/2018.
-//  Copyright © 2018 Iker. All rights reserved.
-//
+
 
 import UIKit
 
